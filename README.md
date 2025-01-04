@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <h2>Lenguajes y habilidades</h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,sql,github,html,java,js,linux,mongodb,mysql,py,react,vscode,kubernetes&perline=14" />
+        <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,github,html,java,js,linux,mongodb,mysql,py,react,vscode,kubernetes&perline=14" />
       </a>
     </p>
   </div>
