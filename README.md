@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 <div>
   <div>
     <h2>Lenguajes y habilidades</h2>
-    <p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/VHDL-5A5A5A?style=flat-square&logo=vhdl&logoColor=white" alt="VHDL" />
+    <p align="center">
+      <!-- SVGs de alta calidad para cada lenguaje -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" alt="VHDL" width="50" />
     </p>
   </div>
   <div>
@@ -40,4 +41,3 @@ Here are some ideas to get you started:
     <h2>Formación profesional</h2>
   </div>
 </div>
-
