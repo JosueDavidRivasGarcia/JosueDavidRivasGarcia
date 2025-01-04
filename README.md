@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 <div>
   <div>
     <h2>Lenguajes y habilidades</h2>
-<!-- Agregar CDN de Font Awesome -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-
-<!-- Usar iconos con la clase correspondiente -->
-<i class="fab fa-python"></i>
-<i class="fab fa-java"></i>
-<i class="fab fa-css3-alt"></i>
-<i class="fab fa-html5"></i>
-<i class="fab fa-react"></i>
+      <!-- Agregar CDN de Font Awesome -->
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+      
+      <!-- Usar iconos con la clase correspondiente -->
+  <i class="fab fa-python"></i>
+  <i class="fab fa-java"></i>
+  <i class="fab fa-css3-alt"></i>
+  <i class="fab fa-html5"></i>
+  <i class="fab fa-react"></i>
 
   </div>
   <div>
