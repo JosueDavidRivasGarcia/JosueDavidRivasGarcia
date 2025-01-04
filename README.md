@@ -25,15 +25,12 @@ Here are some ideas to get you started:
 <h1>Conóceme 😎</h1>
 <div>
   <div>
-    <h2>Lenguajes</h2>
+    <h2>Lenguajes y habilidades</h2>
     <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-  </div>
-  <div>
-    <h2>Habilidades</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,sql,github,html,java,js,linux,mongodb,mysql,py,react,vscode,kubernetes&perline=14" />
+      </a>
+    </p>
   </div>
   <div>
     <h2>Certificaciones</h2>
