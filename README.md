@@ -26,12 +26,20 @@ Here are some ideas to get you started:
 <div>
   <div>
     <h2>Lenguajes</h2>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
   </div>
   <div>
     <h2>Habilidades</h2>
   </div>
   <div>
     <h2>Certificaciones</h2>
+  </div>
+  <div>
+  <h2>Formación profesional</h2>
   </div>
 </div>
 
