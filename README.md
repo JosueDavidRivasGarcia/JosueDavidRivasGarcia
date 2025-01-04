@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,4 +22,17 @@ Here are some ideas to get you started:
 <hr>
 <h1 align="center">Hola soy<a href="https://github.com/JosueDavidRivasGarcia"> Josue<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>Gracias! 😎</h1>
+<h1>Conóceme 😎</h1>
+<div>
+  <div>
+    <h2>Lenguajes</h2>
+  </div>
+  <div>
+    <h2>Habilidades</h2>
+  </div>
+  <div>
+    <h2>Certificaciones</h2>
+  </div>
+</div>
+
+
