@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   </div>
   <div>
     <h2>Formación profesional</h2>
-    <img align="center" src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" width="400" height="80" aling="center"/>
+    <img align="center" width="400" height="80" src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png"/>
   </div>
   <div>
     <h2>Contactame</h2>
