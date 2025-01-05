@@ -47,9 +47,7 @@ Here are some ideas to get you started:
   <div>
     <h2>Formación profesional</h2>
     <p align="center">
-      <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" width="300" heigth="60">
-      <img src="https://ieijalpa.uaz.edu.mx/wp-content/uploads/2021/07/Escudo_preview_rev_1.png" width="100" heigth="60">
-      <img src="https://www.computacionuaz.mx/wp-content/uploads/2022/11/LogoIC_mnu.png" width="100" heigth="60">
+      <img src="https://www.computacionuaz.mx/wp-content/uploads/2022/11/LogoIC_mnu.png" width="100" heigth="100">
     </p>
   </div>
   <div>
