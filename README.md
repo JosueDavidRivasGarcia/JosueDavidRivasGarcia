@@ -65,4 +65,7 @@ Here are some ideas to get you started:
 
   </div>
 </div>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
+    alt="iscpatricio92" />
+</p>
