@@ -55,6 +55,14 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/josu%C3%A9-david-rivas-garc%C3%ADa-548436264/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
+    <a href="https://github.com/josuedavidrivas" target="blank">
+      <img align="center" 
+           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+           alt="GitHub Josué David Rivas" 
+           height="30" 
+           width="40" />
+    </a>
+
   </div>
 </div>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
