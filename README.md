@@ -50,9 +50,7 @@ Here are some ideas to get you started:
   <div>
     <h2>Formación profesional</h2>
     <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" 
-         alt="Logo UAZ" 
-         style="display: block; margin: 0 auto; width: 400px; height: 80px; align="center">
-   </div>
+         alt="Logo UAZ" align="center">
   </div>
   <div>
     <h2>Contactame</h2>
