@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   </div>
   <div>
     <h2>Certificaciones</h2>
+    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   </div>
   <div>
     <h2>Formación profesional</h2>
