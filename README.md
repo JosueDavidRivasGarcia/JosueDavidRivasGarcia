@@ -1,4 +1,4 @@
-## Bienvenido 👋
+![image](https://github.com/user-attachments/assets/8509dd98-fea4-4613-bcb1-3cdcf1dee16c)## Bienvenido 👋
 
 <!--
 **JosueDavidRivasGarcia/JosueDavidRivasGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +47,9 @@ Here are some ideas to get you started:
   <div>
     <h2>Formación profesional</h2>
     <p align="center">
-    <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" width="300" heigth="60">
+      <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" width="300" heigth="60">
+      <img src="https://ieijalpa.uaz.edu.mx/wp-content/uploads/2021/07/Escudo_preview_rev_1.png" width="300" heigth="60">
+      <img src="![image](https://github.com/user-attachments/assets/692a6d6a-31f7-45e0-b212-e7d027184243)" width="300" heigth="60">
     </p>
   </div>
   <div>
