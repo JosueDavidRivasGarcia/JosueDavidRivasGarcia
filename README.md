@@ -50,4 +50,10 @@ Here are some ideas to get you started:
   <div>
     <h2>Formación profesional</h2>
   </div>
+  <div>
+    <h2>Contactame</h2>
+    <a href="https://www.linkedin.com/in/josu%C3%A9-david-rivas-garc%C3%ADa-548436264/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  </div>
 </div>
