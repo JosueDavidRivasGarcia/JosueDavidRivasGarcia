@@ -49,7 +49,13 @@ Here are some ideas to get you started:
   </div>
   <div>
     <h2>Formación profesional</h2>
-    <img align="center" width="400px" height="80px" src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png"/>
+   <div style="text-align: center; margin-top: 50px; font-family: Arial, sans-serif;">
+    <h1>Imagen Centrada</h1>
+    <!-- Imagen centrada con estilos CSS en línea -->
+    <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" 
+         alt="Logo UAZ" 
+         style="display: block; margin: 0 auto; width: 400px; height: 80px;">
+   </div>
   </div>
   <div>
     <h2>Contactame</h2>
