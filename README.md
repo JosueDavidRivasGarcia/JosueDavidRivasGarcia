@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8509dd98-fea4-4613-bcb1-3cdcf1dee16c)## Bienvenido 👋
+## Bienvenido 👋
 
 <!--
 **JosueDavidRivasGarcia/JosueDavidRivasGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
