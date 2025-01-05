@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h1>Conóceme 😎</h1>
 <div>
   <div>
-    <h2>Lenguajes y habilidades</h2>
+    <h2>Lenguajes, herramientas y habilidades</h2>
     <p align="center">
       <!-- Iconos de lenguajes y tecnologías -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" />
