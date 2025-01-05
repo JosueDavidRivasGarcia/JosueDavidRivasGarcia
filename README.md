@@ -45,12 +45,9 @@ Here are some ideas to get you started:
     </p>
   </div>
   <div>
-    <h2>Certificaciones</h2>
-  </div>
-  <div>
     <h2>Formación profesional</h2>
     <p align="center">
-    <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" width="400" heigth="80">
+    <img src="https://ingenieria.uaz.edu.mx/wp-content/uploads/2021/04/Identidad-2021-04.png" width="300" heigth="60">
     </p>
   </div>
   <div>
