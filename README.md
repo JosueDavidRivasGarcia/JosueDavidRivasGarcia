@@ -64,7 +64,12 @@ Here are some ideas to get you started:
     </a>
 
   </div>
-</div><br><br>
+</div>
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JosueDavidRivasGarcia/blob/master/github-contribution-grid-snake.svg)
+
+<br><br>
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
