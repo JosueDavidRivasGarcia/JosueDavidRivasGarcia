@@ -25,53 +25,73 @@ Here are some ideas to get you started:
 <div>
   <h2 align="center">🌟 Lenguajes, Herramientas y Habilidades 🌟</h2>
 
-<div align="center" style="position: relative; width: 400px; height: 400px; border-radius: 50%; display: flex; justify-content: center; align-items: center; background: radial-gradient(circle, #1f2937, #111827);">
-  <div style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" />
-    <p style="color: white; font-size: 12px;">C</p>
-  </div>
-  <div style="position: absolute; top: 30%; left: 85%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
-    <p style="color: white; font-size: 12px;">Python</p>
-  </div>
-  <div style="position: absolute; top: 75%; left: 85%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" />
-    <p style="color: white; font-size: 12px;">Arduino</p>
-  </div>
-  <div style="position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" />
-    <p style="color: white; font-size: 12px;">Linux</p>
-  </div>
-  <div style="position: absolute; top: 75%; left: 15%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" />
-    <p style="color: white; font-size: 12px;">SQL</p>
-  </div>
-  <div style="position: absolute; top: 30%; left: 15%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
-    <p style="color: white; font-size: 12px;">Java</p>
-  </div>
-  <div style="position: absolute; top: 5%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
-    <p style="color: white; font-size: 12px;">Git</p>
-  </div>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h3 style="color: white;">¡Explora mi rueda de habilidades!</h3>
+<div align="center">
+  <div style="
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    position: relative; 
+    width: 400px; 
+    height: 400px; 
+    border-radius: 50%; 
+    background: radial-gradient(circle, #1f2937, #111827);">
+    <div style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
+      <p style="color: white; font-size: 10px;">C</p>
+    </div>
+    <div style="position: absolute; top: 25%; left: 85%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+      <p style="color: white; font-size: 10px;">Python</p>
+    </div>
+    <div style="position: absolute; top: 50%; left: 100%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+      <p style="color: white; font-size: 10px;">Java</p>
+    </div>
+    <div style="position: absolute; top: 75%; left: 85%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" />
+      <p style="color: white; font-size: 10px;">Arduino</p>
+    </div>
+    <div style="position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
+      <p style="color: white; font-size: 10px;">Linux</p>
+    </div>
+    <div style="position: absolute; top: 75%; left: 15%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" />
+      <p style="color: white; font-size: 10px;">SQL</p>
+    </div>
+    <div style="position: absolute; top: 50%; left: 0%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+      <p style="color: white; font-size: 10px;">C++</p>
+    </div>
+    <div style="position: absolute; top: 25%; left: 15%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
+      <p style="color: white; font-size: 10px;">HTML</p>
+    </div>
+    <div style="position: absolute; top: 5%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+      <p style="color: white; font-size: 10px;">Git</p>
+    </div>
+    <div style="position: absolute; top: 15%; left: 65%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
+      <p style="color: white; font-size: 10px;">CSS</p>
+    </div>
+    <div style="position: absolute; top: 35%; left: 80%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+      <p style="color: white; font-size: 10px;">C#</p>
+    </div>
+    <div style="position: absolute; top: 65%; left: 80%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png" alt="VHDL" width="40" />
+      <p style="color: white; font-size: 10px;">VHDL</p>
+    </div>
+    <div style="position: absolute; top: 80%; left: 65%; transform: translate(-50%, -50%); text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
+      <p style="color: white; font-size: 10px;">NoSQL</p>
+    </div>
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+      <h3 style="color: white; font-size: 16px;">🌟<br>Mis Habilidades</h3>
+    </div>
   </div>
 </div>
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueDavidRivasGarcia&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueDavidRivasGarcia&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosueDavidRivasGarcia&theme=darkhub" alt="GitHub Trophies" />
-</p>
 
 </div>
   <div>
