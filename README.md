@@ -16,8 +16,8 @@
 
 ## 🌟 Conóceme 😎
 
+## 🚀 Habilidades
 <div align="center">
-  <h2>Habilidades</h2>
   <h3>Lenguajes</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50"/>
