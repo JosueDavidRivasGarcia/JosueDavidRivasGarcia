@@ -14,7 +14,6 @@
 
 ---
 
-## 🌟 Conóceme 😎
 
 ## 🚀 Habilidades
 <div align="center">
@@ -61,7 +60,7 @@
 
 ## 📞 Contáctame
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/josu%C3%A9-david-rivas-garc%C3%ADa-548436264/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
