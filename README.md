@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Gnu-octave-logo.svg" alt="Octave" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" alt="VHDL" width="50" />
+  <img src="https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png" alt="VHDL" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Redes de Computadoras" width="50" />
 </p>
