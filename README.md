@@ -56,7 +56,7 @@
 ## 🎓 Formación profesional
 
 <div align="center">
-  <div href="https://www.computacionuaz.mx/"><img src="https://www.computacionuaz.mx/wp-content/uploads/2022/11/LogoIC_mnu.png" alt="Logo formación profesional" width="100"></div>
+  <a href="https://www.computacionuaz.mx/"><img src="https://www.computacionuaz.mx/wp-content/uploads/2022/11/LogoIC_mnu.png" alt="Logo formación profesional" width="100"></a>
 </div>
 
 ---
