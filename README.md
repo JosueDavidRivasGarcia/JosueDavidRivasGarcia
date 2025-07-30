@@ -38,6 +38,7 @@
   <p>
     <img src="https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png" alt="VHDL" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50"/>
+    <img src="https://img-blog.csdnimg.cn/15d2b1e1db0f4b85bce1f509bc21a6af.png" alt="Arduino" width="50"/>
   </p>
 
   <h3>Sistemas Operativos</h3>
